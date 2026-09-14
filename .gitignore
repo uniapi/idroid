@@ -1,0 +1,14 @@
+# App signing
+*.jks
+*.keystore
+*.signed.apk.idsig
+
+# Outputs
+*.apk
+*.aab
+apk
+localhost
+META-INF
+
+# Reference
+kotlin-reference.pdf
