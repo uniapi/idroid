@@ -10,3 +10,7 @@
 	* [Challenge 1: Reactive Interactive Controls](./EventListeners/CHALLENGE_reactive_controls.md)
 	* [Challenge 2: Hardware Key Interaction Counter](./EventListeners/CHALLENGE_hardware_interaction.md)
 	* [Challenge 3: Adaptive Audio Environment Simulation](./EventListeners/CHALLENGE_audio_environment.md)
+- 📡 [Intents & Activity Lifecycle](./IntentsAndLifecycle)
+	* [Challenge 1: App Theme Customizer (Two-Way Intents)](./IntentsAndLifecycle/CHALLENGE_intents_easy.md)
+	* [Challenge 2: E-Commerce Catalog Filter Engine (Parcelable & States)](./IntentsAndLifecycle/CHALLENGE_intents_advanced.md)
+	* [Challenge 3: Multi-Stage Task Provisioning Wizard](./IntentsAndLifecycle/CHALLENGE_intents_master.md)
