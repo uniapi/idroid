@@ -14,3 +14,7 @@
 	* [Challenge 1: App Theme Customizer (Two-Way Intents)](./IntentsAndLifecycle/CHALLENGE_intents_easy.md)
 	* [Challenge 2: E-Commerce Catalog Filter Engine (Parcelable & States)](./IntentsAndLifecycle/CHALLENGE_intents_advanced.md)
 	* [Challenge 3: Multi-Stage Task Provisioning Wizard](./IntentsAndLifecycle/CHALLENGE_intents_master.md)
+- 🔁 [Android Adapters](./Adapters)
+	* [Challenge 1: Dynamic Media Playlist Manager (Custom BaseAdapter)](./Adapters/CHALLENGE_adapters_easy.md)
+	* [Challenge 2: Expandable E-Commerce Cart Manager](./Adapters/CHALLENGE_adapters_advanced.md)
+	* [Challenge 3: Interactive Multi-Adapter Dashboard](./Adapters/CHALLENGE_adapters_master.md)
