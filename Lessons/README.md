@@ -18,3 +18,7 @@
 	* [Challenge 1: Dynamic Media Playlist Manager (Custom BaseAdapter)](./Adapters/CHALLENGE_adapters_easy.md)
 	* [Challenge 2: Expandable E-Commerce Cart Manager](./Adapters/CHALLENGE_adapters_advanced.md)
 	* [Challenge 3: Interactive Multi-Adapter Dashboard](./Adapters/CHALLENGE_adapters_master.md)
+- 🧵 [Concurrency, Loopers & Handlers](./Concurrency)
+	* [Challenge 1: Pure-Code Progress Counter Engine](./Concurrency/CHALLENGE_concurrency_easy.md)
+	* [Challenge 2: Custom Thread Pool Progress Matrix](./Concurrency/CHALLENGE_concurrency_advanced.md)
+	* [Challenge 3: Multi-Directional State Orchestrator & Event Bus](./Concurrency/CHALLENGE_concurrency_master.md)
