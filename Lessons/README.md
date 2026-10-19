@@ -22,3 +22,7 @@
 	* [Challenge 1: Pure-Code Progress Counter Engine](./Concurrency/CHALLENGE_concurrency_easy.md)
 	* [Challenge 2: Custom Thread Pool Progress Matrix](./Concurrency/CHALLENGE_concurrency_advanced.md)
 	* [Challenge 3: Multi-Directional State Orchestrator & Event Bus](./Concurrency/CHALLENGE_concurrency_master.md)
+- 🔌 [Socket Primitives & TLS Transport](./Sockets)
+	* [Challenge 1: Connectionless UDP Telemetry Pumper (Single Device Loopback)](./Sockets/CHALLENGE_sockets_easy.md)
+	* [Challenge 2: Bi-Directional TCP Command Matrix Terminal (Dual Device Network)](./Sockets/CHALLENGE_sockets_advanced.md)
+	* [Challenge 3: Multi-Client TLS Secure Chat Server & Frame Multiplexer (Encrypted Multi-Node Network)](./Sockets/CHALLENGE_sockets_master.md)
