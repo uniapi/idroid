@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="localhost.idroid.salamun">
+    <uses-sdk android:minSdkVersion="30" android:targetSdkVersion="10" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<!-- Required Base Foreground Permission (Since API 28) -->
+	<uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+	<!-- Required Type-Specific Foreground Permission (Since API 34) -->
+	<uses-permission android:name="android.permissin.FOREGROUND_SERVICE_CONNECTED_DEVICE" />
+    <application android:label="\u0627\u0644\u0633\u0651\u0644\u0627\u0645">
+        <activity android:name=".TcpMatrixHubActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+		<service android:name=".TcpMatrixHubService" android:exported="true" />
+    </application>
+</manifest>

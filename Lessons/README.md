@@ -26,3 +26,7 @@
 	* [Challenge 1: Connectionless UDP Telemetry Pumper (Single Device Loopback)](./Sockets/CHALLENGE_sockets_easy.md)
 	* [Challenge 2: Bi-Directional TCP Command Matrix Terminal (Dual Device Network)](./Sockets/CHALLENGE_sockets_advanced.md)
 	* [Challenge 3: Multi-Client TLS Secure Chat Server & Frame Multiplexer (Encrypted Multi-Node Network)](./Sockets/CHALLENGE_sockets_master.md)
+- 🔧 [Android Services](./Services)
+	* [Challenge 1: Connectionless Background UDP Pulse Engine (Bound Service Protection)](./Services/CHALLENGE_services_easy.md)
+	* [Challenge 2: Persistent TCP Command Matrix Foreground Hub (Foreground Service Lifecycle)](./Services/CHALLENGE_services_advanced.md)
+	* [Challenge 3: Multi-Client TLS Cryptographic Multiplexer Service (Background Server)](./Services/CHALLENGE_services_master.md)
