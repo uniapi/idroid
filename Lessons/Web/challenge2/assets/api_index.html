@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>API Index</title>
+	<style>
+		body { font-family: sans-serif; padding: 20px; line-height: 1.6; background: #fafafa; color: #333; }
+		code { background: #e0e0e0; padding: 2px 6px; border-radius: 4px; font-family: monospace; }
+		.route-card { background: white; padding: 15px; margin-bottom: 15px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); border-left: 5px solid #0066cc; }
+		.method-get { border-left-color: #2e7d32; }
+		.method-post { border-left-color: #e65100; }
+		.badge { display: inline-block; padding: 3px 8px; color: white; border-radius: 4px; font-weight: bold; font-size: 0.8em; margin-right: 10px; }
+		.bg-get { background: #4caf50; }
+		.bg-post { background: #ff9800; }
+	</style>
+</head>
+<body>
+	<h1>IDroid Server Edge API Index</h1>
+	<p>Welcome! The following endpoints are currently exposed by the terminal network router:</p>
+	
+	<div class="route-card method-get">
+		<span class="badge bg-get">GET</span><code>/api</code>
+		<p>Serves the automated machine-readable JSON route index discovery frame.</p>
+	</div>
+
+	<div class="route-card method-get">
+		<span class="badge bg-get">GET</span><code>/api/status</code>
+		<p>Returns application uptime metrics and running configurations as a JSON frame.</p>
+	</div>
+
+	<div class="route-card method-get">
+		<span class="badge bg-get">GET</span><code>/api/cores</code>
+		<p>Exposes active runtime processing unit calculations and CPU core availability limits.</p>
+	</div>
+	
+	<div class="route-card method-post">
+		<span class="badge bg-post">POST</span><code>/api/config</code>
+		<p>Mutates terminal title options. Requires URL-Encoded payload body: <code>server_label=YourValue</code></p>
+	</div>
+</body>
+</html>

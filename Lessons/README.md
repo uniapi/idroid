@@ -30,3 +30,7 @@
 	* [Challenge 1: Connectionless Background UDP Pulse Engine (Bound Service Protection)](./Services/CHALLENGE_services_easy.md)
 	* [Challenge 2: Persistent TCP Command Matrix Foreground Hub (Foreground Service Lifecycle)](./Services/CHALLENGE_services_advanced.md)
 	* [Challenge 3: Multi-Client TLS Cryptographic Multiplexer Service (Background Server)](./Services/CHALLENGE_services_master.md)
+- 🌐 [Web Servers](./Web)
+	* [Challenge 1: Minimal Stateless HTTP Info Host (Single Text Page Server)](./Web/CHALLENGE_web_easy.md)
+	* [Challenge 2: Dynamic REST Router & POST Payload Parser (Remote View Controller)](./Web/CHALLENGE_web_advanced.md)
+	* [Challenge 3: Cryptographic Self-Signed Embedded HTTPS Server Engine (Secure Local Host)](./Web/CHALLENGE_web_master.md)

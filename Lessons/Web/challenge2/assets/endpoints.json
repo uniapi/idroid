@@ -1,0 +1,11 @@
+{
+  "service": "IDroid Local Node API",
+  "version": "1.0.0",
+  "endpoints": {
+    "GET /": "Serves the human-readable HTML documentation index page",
+    "GET /api": "Serves this automated machine-readable JSON route index discovery frame",
+    "GET /api/status": "Fetches terminal uptime state metrics and parameters",
+    "GET /api/cores": "Exposes active runtime processing unit calculations and core limits",
+    "POST /api/config": "Mutates structural terminal title options (Required: server_label)"
+  }
+}

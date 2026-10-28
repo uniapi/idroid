@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="localhost.idroid.salamun">
+    <uses-sdk android:minSdkVersion="11" />
+	<uses-permission android:name="android.permission.INTERNET" />
+    <application android:label="\u0627\u0644\u0633\u0651\u0644\u0627\u0645">
+        <activity android:name=".WebEasyActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+		<service android:name="localhost.idroid.salamun.MinimalHttpService" android:enabled="true" />
+    </application>
+</manifest>
