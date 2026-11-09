@@ -34,3 +34,8 @@
 	* [Challenge 1: Minimal Stateless HTTP Info Host (Single Text Page Server)](./Web/CHALLENGE_web_easy.md)
 	* [Challenge 2: Dynamic REST Router & POST Payload Parser (Remote View Controller)](./Web/CHALLENGE_web_advanced.md)
 	* [Challenge 3: Cryptographic Self-Signed Embedded HTTPS Server Engine (Secure Local Host)](./Web/CHALLENGE_web_master.md)
+
+- 📦 [MQTT](./MQTT)
+	* [Challenge 1: Manual Binary Packet Assembler & Handshake Node (Single Packet Connection)](./MQTT/CHALLENGE_mqtt_easy.md)
+	* [Challenge 2: Persistent Pub/Sub Lifecycle & Heartbeat Service (Persistent Foreground Service)](./MQTT/CHALLENGE_mqtt_advanced.md)
+
