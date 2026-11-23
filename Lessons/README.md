@@ -39,3 +39,7 @@
 	* [Challenge 1: Manual Binary Packet Assembler & Handshake Node (Single Packet Connection)](./MQTT/CHALLENGE_mqtt_easy.md)
 	* [Challenge 2: Persistent Pub/Sub Lifecycle & Heartbeat Service (Persistent Foreground Service)](./MQTT/CHALLENGE_mqtt_advanced.md)
 
+- 🖼️  [Android Bitmaps](./Bitmap)
+	* [Challenge 1: Memory-Safe Image Downsampler & Metadata Inspector](./Bitmap/CHALLENGE_bitmap_easy.md)
+	* [Challenge 2: Asynchronous Thumbnail Gallery & `LruCache` Engine](./Bitmap/CHALLENGE_bitmap_advanced.md)
+	* [Challenge 3: Procedural Pixel Matrix & Filter Studio](./Bitmap/CHALLENGE_bitmap_master.md)
